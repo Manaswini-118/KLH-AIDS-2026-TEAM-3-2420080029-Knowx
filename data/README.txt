@@ -1,1 +1,1 @@
-NOTE: This is sample datasets only, to make our model evaluate better we have taken ppts as well as documents of companies.
+NOTE: This is sample datasets only, to make our model evaluate better we have taken annual reports of companies since we could not get actual documents , the annual reports are in the form of ppt as well as word documents.
